@@ -1,7 +1,7 @@
-#PD_exercicios_31
+#PD_exercicios_24
 
 
-**Número da Lista**: 31<br>
+**Número da Lista**: 24<br>
 **Conteúdo da Disciplina**: Programação Dinâmica <br>
 
 ## Alunos
