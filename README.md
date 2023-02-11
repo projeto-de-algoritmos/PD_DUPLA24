@@ -4,6 +4,8 @@
 **Número da Lista**: 24<br>
 **Conteúdo da Disciplina**: Programação Dinâmica <br>
 
+Link Vídeo: https://youtu.be/5BPeyY-knqg
+
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
